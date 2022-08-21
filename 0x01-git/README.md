@@ -1,2 +1,2 @@
-my git directory
+updated readme in git directory
 
